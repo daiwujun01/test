@@ -3,4 +3,5 @@ print("Hello everyone.")
 print("Learning how to use git with TWT on Youtube")
 
 print("made a new branch")
+print("weired that merge command does not work")
 
