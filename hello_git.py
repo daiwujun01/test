@@ -8,3 +8,5 @@ print("ok now it's working, well first should checkout to the main \
       and the command should be 'merge new' not 'merge main' ")
 
 print("test 2nd push")
+
+print("test 3rd push")
